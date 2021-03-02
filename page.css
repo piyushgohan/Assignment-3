@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+#top-bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    height: 100px;
+}
+
+#menu-bar{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-style{
+    display: block;
+}
+
+.span{
+    background-color: blue;
+    width: 50px;
+    height: 20px;
+    display: inline-block;
+}
+
+
+
